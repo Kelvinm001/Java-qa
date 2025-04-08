@@ -1,2 +1,1 @@
-# Java-qa
-Implementar teste no projeto 
+# oficina-spring-boot
